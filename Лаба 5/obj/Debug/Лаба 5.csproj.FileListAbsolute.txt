@@ -1,0 +1,19 @@
+C:\Users\Алексей\Desktop\Универ\2 курс\Операционные системы\Лаба 5\Лаба 5\bin\Debug\Лаба 5.exe.config
+C:\Users\Алексей\Desktop\Универ\2 курс\Операционные системы\Лаба 5\Лаба 5\bin\Debug\Лаба 5.exe
+C:\Users\Алексей\Desktop\Универ\2 курс\Операционные системы\Лаба 5\Лаба 5\bin\Debug\Лаба 5.pdb
+C:\Users\Алексей\Desktop\Универ\2 курс\Операционные системы\Лаба 5\Лаба 5\obj\Debug\Лаба 5.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\Универ\2 курс\Операционные системы\Лаба 5\Лаба 5\obj\Debug\Лаба_5.Form1.resources
+C:\Users\Алексей\Desktop\Универ\2 курс\Операционные системы\Лаба 5\Лаба 5\obj\Debug\Лаба_5.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Универ\2 курс\Операционные системы\Лаба 5\Лаба 5\obj\Debug\Лаба 5.csproj.GenerateResource.cache
+C:\Users\Алексей\Desktop\Универ\2 курс\Операционные системы\Лаба 5\Лаба 5\obj\Debug\Лаба 5.exe
+C:\Users\Алексей\Desktop\Универ\2 курс\Операционные системы\Лаба 5\Лаба 5\obj\Debug\Лаба 5.pdb
+C:\Users\Алекесей\Desktop\По делу\Лаба 5\Лаба 5\bin\Debug\Лаба 5.exe.config
+C:\Users\Алекесей\Desktop\По делу\Лаба 5\Лаба 5\bin\Debug\Лаба 5.exe
+C:\Users\Алекесей\Desktop\По делу\Лаба 5\Лаба 5\bin\Debug\Лаба 5.pdb
+C:\Users\Алекесей\Desktop\По делу\Лаба 5\Лаба 5\obj\Debug\Лаба 5.csprojAssemblyReference.cache
+C:\Users\Алекесей\Desktop\По делу\Лаба 5\Лаба 5\obj\Debug\Лаба_5.Form1.resources
+C:\Users\Алекесей\Desktop\По делу\Лаба 5\Лаба 5\obj\Debug\Лаба_5.Properties.Resources.resources
+C:\Users\Алекесей\Desktop\По делу\Лаба 5\Лаба 5\obj\Debug\Лаба 5.csproj.GenerateResource.cache
+C:\Users\Алекесей\Desktop\По делу\Лаба 5\Лаба 5\obj\Debug\Лаба 5.csproj.CoreCompileInputs.cache
+C:\Users\Алекесей\Desktop\По делу\Лаба 5\Лаба 5\obj\Debug\Лаба 5.exe
+C:\Users\Алекесей\Desktop\По делу\Лаба 5\Лаба 5\obj\Debug\Лаба 5.pdb
